@@ -1,0 +1,16 @@
+{
+  "name": "update-foto-crappie",
+  "version": "1.0.0",
+  "description": "PHP - jquery ajax colheita de imagem antes de carregar usando crappie plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Santos",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "croppie": "^2.4.0",
+    "jquery": "^3.1.1"
+  }
+}
